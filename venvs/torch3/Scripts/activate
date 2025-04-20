@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\medin\OneDrive\Dokumente\mt-exercise-03\mt-exercise-03\venvs\torch3"
+VIRTUAL_ENV="C:\Users\medin\OneDrive\Dokumente\mt-exercise-03\venvs\torch3"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

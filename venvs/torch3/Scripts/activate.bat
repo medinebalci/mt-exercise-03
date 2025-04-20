@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\medin\OneDrive\Dokumente\mt-exercise-03\mt-exercise-03\venvs\torch3
+set VIRTUAL_ENV=C:\Users\medin\OneDrive\Dokumente\mt-exercise-03\venvs\torch3
 
 if not defined PROMPT set PROMPT=$P$G
 
